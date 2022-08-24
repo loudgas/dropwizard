@@ -57,7 +57,7 @@ the object isn't ``null`` or blank in the request. We can do this as follows:
         }
     }
 
-Then, in our resource class, we can add the ``@Valid`` annotation to the ``Person`` annotation:
+Then, in our resource class, we can add the ``@Valid`` annotation to the ``Person`` parameter:
 
 .. code-block:: java
 
